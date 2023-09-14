@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi there, I am Kgothatso Mushapho 👋</h1>
+- 🔭 I’m currently on <a href="https://www.shecodes.io/graduates/96427-kgothatso-mushapho" target="_blank">SheCodes</a>
+- 🌱 I’m currently learning front-end development & C#.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/kgothatso-mushapho-0b8612278/" target="_blank">Linkedin</a>
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I studied bcom accounting.
