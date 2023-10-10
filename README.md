@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning front-end development & C#.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kgothatso-mushapho-0b8612278/" target="_blank">Linkedin</a>
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I studied bcom accounting.
+- ⚡ Fun fact: I am a student at WeThinkCode_
