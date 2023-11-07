@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there, I am Kgothatso👋</h1>
-- 🔭 I’m currently on ALX <a href="https://www.shecodes.io/graduates/96427-kgothatso-mushapho" target="_blank">SheCodes</a>
+- 🔭 I’m currently on ALX and <a href="https://www.shecodes.io/graduates/96427-kgothatso-mushapho" target="_blank">SheCodes</a>
 - 🌱 I’m currently learning front-end development & C#.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kgothatso-mushapho-0b8612278/" target="_blank">Linkedin</a>
 - 😄 Pronouns: She/her
